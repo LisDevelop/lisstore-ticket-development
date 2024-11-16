@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "djs-commander": "^0.0.50",
+    "mysql2": "^3.11.4"
+  },
+  "name": "lisstore-ticket-development",
+  "description": "BOT de tickets completo para sua comunidade no discord!",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LisGaming",
+  "license": "ISC"
+}
