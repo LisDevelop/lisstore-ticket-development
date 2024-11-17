@@ -28,4 +28,18 @@ BOT de tickets completo para sua comunidade no discord!
             - "Pode explicar melhor? Vamos resolver juntos."
             - "Tem alguma dúvida específica? Conte comigo."
             - "Precisa de orientação? Estou a disposição."
+  2.9. Botão para fechar o ticket (com sistema de transcript)
+    2.9.1. Sistema opcional de feedback automático
+    2.9.2. Painel exclusivo para quando o administrador que fecha o ticket, com mensagens definidas por um select menu
+            - "Atendimento finalizado" = Quando finaliza apenas o Atendimento
+            - "Usuário ausente demais" = Quando o usuário não responde rapidamente
+            - "Compra realizada" = Quando é feito uma venda, a mensagem vai padronizada após compra
+
+3. Sistemas opcionais:
+  3.1. Sistema de feedback automático (envia a mensagem quando fecha o ticket)
+  3.2. Sistema de mensagem privada pelo BOT
+  3.1. Painel administrativo
+    3.1.1. Sistema de sorteios (giveaway)
+    3.1.2. Mensagens pelo BOT (mensagem automática usando BOT)
+    3.1.3. Sistema de CUPOM DE DESCONTO
 ===============================================================================================
